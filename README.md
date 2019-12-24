@@ -1,0 +1,2 @@
+# Amazon-Food-Reviews-Summarization
+In this we have implemented a simple text summarization model on the amazon food reviews dataset available on kaggle. We used encoder decoder model with attention layer by thushv89(https://github.com/thushv89). It involved training the model on the given dataset and then making an inference architecture from the trained model's layers where decoder was used as Language Modelling system. Now we are modyfing the layers to bidirectional layers for encoders and increasing the no. of layers in the decoders.
